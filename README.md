@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I’m Web Developer
+I’m a Web Developer
 
 
 "Programming is 90% thinking and 10% writing"
