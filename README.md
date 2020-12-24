@@ -1,16 +1,17 @@
 ### Hi there 👋
 
-<!--
-**tanvirstreame/tanvirstreame** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m Web Developer
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+"Programming is 90% thinking and 10% writing"
+
+<table width="100%">
+  <tr>
+    <td>
+      <img height="200em" src="https://github-readme-stats.vercel.app/api?username=tanvirstreame&show_icons=true&hide_border=true" /> 
+    </td>
+    <td> 
+      <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanvirstreame&show_icons=true&hide_border=true&layout=compact&langs_count=8"/> 
+    </td>
+  </tr>
+<table>
