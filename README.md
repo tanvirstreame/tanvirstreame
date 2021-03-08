@@ -1,7 +1,7 @@
-### Hi there I am Tanvir Islam 👋
+### Hi there, I am Tanvir Islam 👋
 
-I’m a Web Developer
-Love Programming
+- I’m a Web Developer
+- Love Programming
 
 
 
