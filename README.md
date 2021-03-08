@@ -1,4 +1,4 @@
-### Hi there I am [Tanvir ISlam]👋
+### Hi there I am Tanvir Islam 👋
 
 I’m a Web Developer
 Love Programming
