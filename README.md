@@ -1,12 +1,9 @@
 <h1 align="center">Hi 👋, I'm Tanvir Islam</h1>
 
-- I’m a Web Developer
-- Love Programming
-- 
 <br>
 
 
-"Programming is 90% thinking and 10% writing"
+<P align="center">"Programming is 90% thinking and 10% writing"</p>
 
 <p align="center">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
