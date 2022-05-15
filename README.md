@@ -15,7 +15,7 @@
 <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
 </p>
 <div style="width: 100%;" align="center">
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=tanvirstreame" alt="tanvirstreame" />
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=tanvirstreame&background=0D1117&sideNums=FFFFFF&sideLabels=9A9A9A&currStreakNum=FB8C00&dates=6E6E6" alt="tanvirstreame" />
 </div>
 <table width="100%">
   <tr>
