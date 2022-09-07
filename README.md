@@ -17,6 +17,19 @@
 <div style="width: 100%;" align="center">
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=tanvirstreame" alt="tanvirstreame" />
 </div>
+
+
+<table width="100%">
+  <tr>
+    <td>
+      <img  src="https://github-readme-streak-stats.herokuapp.com/?user=tanvirstreame" alt="tanvirstreame" />
+    </td>
+    <td> 
+      <img height="200em" src="https://leetcode-stat-api.herokuapp.com/tanvirstreame"/> 
+    </td>
+  </tr>
+<table>
+
 <table width="100%">
   <tr>
     <td>
