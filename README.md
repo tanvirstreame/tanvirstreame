@@ -18,7 +18,7 @@
 <table width="100%">
   <tr>
     <td>
-      <img  src="https://github-readme-streak-stats.herokuapp.com/?user=tanvirstreame" alt="tanvirstreame" />
+      <img height="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=tanvirstreame" alt="tanvirstreame" />
     </td>
     <td> 
       <img height="200em" src="https://leetcode-stat-api.herokuapp.com/tanvirstreame"/> 
