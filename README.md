@@ -54,8 +54,12 @@
 <div style="display: flex;">
   <div style="width: 50%;" align="center" >
     
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/tanvirstreame/)
-&nbsp; [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/tanvirstreame) 
+  <div align=center>
+        <a href="https://www.linkedin.com/in/tanvirstreame"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" alt="LinkedIn" /></a>
+        <a href="https://twitter.com/tanvirstreame"><img src="https://img.shields.io/badge/Twitter-ffffff?style=flat&logo=twitter" alt="Twitter" /></a>    
+        <a href="https://stackoverflow.com/users/5740655/tanvir-islam-streame"><img src="https://img.shields.io/badge/Stack Overflow-f48024?style=flat&logo=stackoverflow&logoColor=white" alt="Stack Overflow" /></a>    
+        <a href="https://www.facebook.com/tanvir.streame"><img src="https://img.shields.io/badge/Facebook-ffffff?style=flat&logo=facebook" alt="Facebook"/></a>
+   </div>
 
    <div >
   <div style="width: 50%;" align="center" >
